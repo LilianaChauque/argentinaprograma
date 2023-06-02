@@ -1,0 +1,19 @@
+Respuestas
+ resta 
+ Rta: 8
+
+ multiplicación
+ Rta: 204
+
+ AreaRectangulo
+ Rta: inc a = 15
+      inc b =66.625
+
+ conversionGrados
+Rta: inc a = 10
+     inc b = 21.11
+
+ promedio3
+ Rta: inc a = 7
+      inc b = -4.33
+      inc c = 0.266    

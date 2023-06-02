@@ -5,5 +5,5 @@ let resta= num1 - num2;
 
 console.log(resta);
 
-
+//Rta: 8
 

@@ -6,4 +6,4 @@ let multiplicacion = num1 * num2 * num3;
 
 console.log (multiplicacion);
 
-
+// Rta: 204
