@@ -11,7 +11,7 @@ Respuestas
 
  conversionGrados
 Rta: inc a = 10
-     inc b = 21.11
+     inc b = 23.88
 
  promedio3
  Rta: inc a = 7
