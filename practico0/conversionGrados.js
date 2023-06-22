@@ -11,7 +11,7 @@ console.log (Celsius);
 
 
 // b.
-Fahrenheit = 70;
+Fahrenheit = 75;
 Celsius = (Fahrenheit - 32) * 5/9;
 console.log (Celsius);
-// Rta: 21.11
+// Rta: 23.88
